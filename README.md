@@ -1,0 +1,14 @@
+# raven-user 12 SQ3A.220705.003 8671607 release-keys
+- manufacturer: 
+- platform: gs101
+- codename: raven
+- flavor: raven-user
+- release: 12
+- id: SQ3A.220705.003
+- incremental: 8671607
+- tags: release-keys
+- fingerprint: google/raven/raven:12/SQ3A.220705.003/8671607:user/release-keys
+- is_ab: true
+- brand: google
+- branch: raven-user-12-SQ3A.220705.003-8671607-release-keys
+- repo: google_raven_dump3140
